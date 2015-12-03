@@ -1,0 +1,16 @@
+	/*       double numb = r;
+			   if (count <= 0) {
+			      count = 1;
+			      total = numb; 
+			      largest = numb;
+			      tinyest = numb;}
+			   else if ( count > 0){
+			      count++ ;
+				  total = numb + total;
+			   
+				  if ( numb > largest ){ 
+				     numb = largest;}
+			      if ( numb < tinyest){
+				     numb = tinyest;}
+					
+			   }
